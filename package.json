@@ -1,0 +1,23 @@
+{
+  "name": "moonlight-black",
+  "displayName": "Moonlight Black",
+	"description": "A VS Code theme based on Moonlight II Italic.",
+	"version": "0.0.1",
+	"publisher": "masyoudi",
+	"license": "MIT",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moonlight Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight-black.json"
+      }
+    ]
+  }
+}
